@@ -13,4 +13,42 @@
 # 100pt: Green grass on the ground and a red house!
 
 # Minus 5pts if your code has no comments
-# Minus 10pts if you only commit once to github
+# Minus 10pts if you only commit once to github.
+
+
+create_line(0,0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
