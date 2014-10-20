@@ -20,6 +20,7 @@ square = drawpad.create_rectangle(180,400,230,450, fill='pink')
 square = drawpad.create_rectangle(240,400,290,450, fill='pink')
 square = drawpad.create_rectangle(310,400,360,450, fill='pink')
 square = drawpad.create_rectangle(0,500,800,600, fill='green')
-# Just made a kickass line
+# Just made a kickass Doorknob and Door
 line = drawpad.create_line(0, 0, 200, 100)
+oval = drawpad.create_oval(435,445,450,460, fill='red')
 root.mainloop()
